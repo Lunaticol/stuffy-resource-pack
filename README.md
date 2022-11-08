@@ -1,0 +1,2 @@
+# stuffy resource pack
+ resource
