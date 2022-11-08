@@ -1,13 +1,12 @@
 {
- "parent": "item/handheld",
- "textures": {
-  "layer0": "stuffy/carved_pumpkin"
- },
-
- "overrides": [
-  { "predicate": {"custom_model_data": 1}, "model": "item/espeon"}
-
- ]
-
- 
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "stuffy/carved_pumpkin"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 42700 }, "model": "stuffys:espeon" },
+    { "predicate": { "custom_model_data": 42701 }, "model": "stuffys:sylveon" },
+    { "predicate": { "custom_model_data": 42702 }, "model": "stuffys:umbreon" },
+    { "predicate": { "custom_model_data": 42703 }, "model": "stuffys:flareon" }
+  ]
 }
