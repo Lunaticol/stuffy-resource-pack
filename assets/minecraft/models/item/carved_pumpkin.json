@@ -8,6 +8,7 @@
     { "predicate": { "custom_model_data": 42701 }, "model": "stuffys:sylveon" },
     { "predicate": { "custom_model_data": 42702 }, "model": "stuffys:umbreon" },
     { "predicate": { "custom_model_data": 42703 }, "model": "stuffys:flareon" },
-    { "predicate": { "custom_model_data": 42704 }, "model": "stuffys:leafeon" }
+    { "predicate": { "custom_model_data": 42704 }, "model": "stuffys:leafeon" },
+    { "predicate": { "custom_model_data": 42705 }, "model": "stuffys:eevee" }
   ]
 }
