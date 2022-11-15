@@ -12,7 +12,7 @@
     { "predicate": { "custom_model_data": 42705 }, "model": "stuffys:eevee" },
     { "predicate": { "custom_model_data": 42706 }, "model": "stuffys:vaporeon" },
     { "predicate": { "custom_model_data": 42707 }, "model": "stuffys:karl" },
-    { "predicate": { "custom_model_data": 42707 }, "model": "stuffys:glaceon" },
-    { "predicate": { "custom_model_data": 42707 }, "model": "stuffys:jolteon" }
+    { "predicate": { "custom_model_data": 42708 }, "model": "stuffys:glaceon" },
+    { "predicate": { "custom_model_data": 42709 }, "model": "stuffys:jolteon" }
   ]
 }
