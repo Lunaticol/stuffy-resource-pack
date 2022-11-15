@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "assets:vaporeon",
-		"particle": "assets:vaporeon"
+		"0": "stuffys:vaporeon",
+		"particle": "stuffys:vaporeon"
 	},
 	"elements": [
 		{
