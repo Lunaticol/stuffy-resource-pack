@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "sf:hats_n_helms/stuffy/flareon",
-		"particle": "sf:hats_n_helms/stuffy/flareon"
+		"0": "minecraft:block/stuffys/flareon",
+		"particle": "minecraft:block/stuffys/flareon"
 	},
 	"elements": [
 		{

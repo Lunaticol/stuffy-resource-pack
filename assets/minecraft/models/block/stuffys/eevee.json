@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "sf:hats_n_helms/stuffy/eevee",
-		"particle": "sf:hats_n_helms/stuffy/eevee"
+		"0": "minecraft:block/stuffys/eevee",
+		"particle": "minecraft:block/stuffys/eevee"
 	},
 	"elements": [
 		{
@@ -347,6 +347,7 @@
 			"name": "body",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				0,
 				1,
@@ -354,24 +355,28 @@
 					"name": "ears",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [2, 3, 4, 5, 6, 7]
 				},
 				{
 					"name": "legs",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [8, 9, 10, 11]
 				},
 				{
 					"name": "tail",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [12, 13, 14, 15, 16]
 				},
 				{
 					"name": "neck fluff",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
 				}
 			]

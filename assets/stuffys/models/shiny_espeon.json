@@ -1,9 +1,0 @@
-{
-  "credit": "PROPERTY OF SHATTERFALLS",
-  "parent": "sf:hats_n_helms/stuffy/espeon",
-  "texture_size": [32, 32],
-  "textures": {
-    "0": "sf:hats_n_helms/stuffy/shiny_espeon",
-    "particle": "sf:hats_n_helms/stuffy/shiny_espeon"
-  }
-}

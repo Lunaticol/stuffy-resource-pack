@@ -1,0 +1,9 @@
+{
+  "credit": "PROPERTY OF SHATTERFALLS",
+  "parent": "minecraft:block/stuffys/glaceon",
+  "texture_size": [32, 32],
+  "textures": {
+    "0": "minecraft:block/stuffys/shiny_glaceon",
+    "particle": "minecraft:block/stuffys/shiny_glaceon"
+  }
+}

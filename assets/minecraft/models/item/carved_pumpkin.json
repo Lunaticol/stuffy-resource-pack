@@ -1,19 +1,30 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "block/carved_pumpkin"
+  "parent": "minecraft:block/carved_pumpkin",
+ "textures": {
+  "layer0": "item/carved_pumpkin"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 42700 }, "model": "stuffys:espeon" },
-    { "predicate": { "custom_model_data": 42701 }, "model": "stuffys:sylveon" },
-    { "predicate": { "custom_model_data": 42702 }, "model": "stuffys:umbreon" },
-    { "predicate": { "custom_model_data": 42703 }, "model": "stuffys:flareon" },
-    { "predicate": { "custom_model_data": 42704 }, "model": "stuffys:leafeon" },
-    { "predicate": { "custom_model_data": 42705 }, "model": "stuffys:eevee" },
-    { "predicate": { "custom_model_data": 42706 }, "model": "stuffys:vaporeon" },
-    { "predicate": { "custom_model_data": 42707 }, "model": "stuffys:karl" },
-    { "predicate": { "custom_model_data": 42708 }, "model": "stuffys:glaceon" },
-    { "predicate": { "custom_model_data": 42709 }, "model": "stuffys:jolteon" },
-    { "predicate": { "custom_model_data": 42710 }, "model": "stuffys:abominaceon"}
+    { "predicate": { "custom_model_data": 42700 }, "model": "block/stuffys/espeon" },
+    { "predicate": { "custom_model_data": 42701 }, "model": "block/stuffys/sylveon" },
+    { "predicate": { "custom_model_data": 42702 }, "model": "block/stuffys/umbreon" },
+    { "predicate": { "custom_model_data": 42703 }, "model": "block/stuffys/flareon" },
+    { "predicate": { "custom_model_data": 42704 }, "model": "block/stuffys/leafeon" },
+    { "predicate": { "custom_model_data": 42705 }, "model": "block/stuffys/eevee" },
+    { "predicate": { "custom_model_data": 42706 }, "model": "block/stuffys/vaporeon" },
+    { "predicate": { "custom_model_data": 42707 }, "model": "block/stuffys/karl" },
+    { "predicate": { "custom_model_data": 42708 }, "model": "block/stuffys/glaceon" },
+    { "predicate": { "custom_model_data": 42709 }, "model": "block/stuffys/jolteon" },
+    { "predicate": { "custom_model_data": 42710 }, "model": "block/stuffys/abominaceon"},
+    { "predicate": { "custom_model_data": 42711 }, "model": "block/stuffys/shiny_espeon" },
+    { "predicate": { "custom_model_data": 42712 }, "model": "block/stuffys/shiny_sylveon" },
+    { "predicate": { "custom_model_data": 42713 }, "model": "block/stuffys/shiny_umbreon" },
+    { "predicate": { "custom_model_data": 42714 }, "model": "block/stuffys/shiny_flareon" },
+    { "predicate": { "custom_model_data": 42715 }, "model": "block/stuffys/shiny_leafeon" },
+    { "predicate": { "custom_model_data": 42716 }, "model": "block/stuffys/shiny_eevee" },
+    { "predicate": { "custom_model_data": 42717 }, "model": "block/stuffys/shiny_vaporeon" },
+    { "predicate": { "custom_model_data": 42718 }, "model": "block/stuffys/shiny_karl" },
+    { "predicate": { "custom_model_data": 42719 }, "model": "block/stuffys/shiny_glaceon" },
+    { "predicate": { "custom_model_data": 42720 }, "model": "block/stuffys/shiny_jolteon" },
+    { "predicate": { "custom_model_data": 42721 }, "model": "block/stuffys/shiny_abominaceon"}
   ]
 }
